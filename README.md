@@ -40,17 +40,17 @@ In neuroscience and computer science, synaptic weight refers to the strength or 
 Deep Learning is a subset of Machine Learning and Machine Learning is turn a subset of Artificial Intelligence. This illustration explains the relationships between the three entities
 
 <p align="center">
-  <img width="350" height="350" src="static/deep.png">
+  <img width="350" height="300" src="static/deep.png">
 </p>
 
 <p align="center">
-  <img width="600" height="350" src="static/ML3.PNG">
+  <img width="500" height="350" src="static/ML3.PNG">
 </p>
 
 ### Biological Neuron
 
 <p align="center">
-  <img width="450" height="350" src="static/biological.jpg">
+  <img width="450" height="300" src="static/biological.jpg">
 </p>
 
 It is easier to understand how a biological neuron works by breaking down the process into 3 phases:
