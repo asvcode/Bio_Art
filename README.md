@@ -74,7 +74,7 @@ Third phase Use of an activation function to compute an output
 ### Phase 1 - Input Phase
 
 <p align="center">
-  <img width="750" height="450" src="static/phase1.PNG">
+  <img width="750" height="400" src="static/phase1.PNG">
 </p>
 
 he input phase consists of an input, x which is multiplied to a weight.
@@ -91,13 +91,13 @@ Images can be broken down into pixels where each pixel has a value between 0 and
 ### Phase 2
 
 <p align="center">
-  <img width="750" height="450" src="static/phase2.PNG">
+  <img width="750" height="400" src="static/phase2.PNG">
 </p>
 
 ### Phase 3 - Activation Function
 
 <p align="center">
-  <img width="750" height="450" src="static/phase3.PNG">
+  <img width="750" height="400" src="static/phase3.PNG">
 </p>
 
 
